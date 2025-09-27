@@ -1,6 +1,6 @@
-# Hi, I’m Hammad Farooq 👋
+# Hi, I'm Hammad Farooq 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=600&lines=Data+Science+Student,+AI+%26+ML+Enthusiast,+Django+Developer,+Always+Learning,+Gamer,+Problem+Solver,+Creator)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=600&lines=Data+Science+Student;AI+%26+ML+Enthusiast;Django+Developer;Always+Learning;Gamer,+Creator,+Problem+Solver)
 
 ---
 
@@ -17,22 +17,22 @@
 
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </p>
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/llm.svg" alt="LLM" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/retrievalaugmentedgeneration.svg" alt="RAG Systems" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LLM" width="40" height="40"/>
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="80" height="40"/>
+  <img src="https://rag.anyscale.com/assets/images/rag-logo-8c7e8a9cf2da8d839a42e0b87fae7ce9.svg" alt="RAG Systems" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
 </p>
 
 ---
@@ -46,4 +46,22 @@
 
 ---
 
-## 🌱 What I’m
+## 🌱 What I'm Learning
+- Deepening expertise in **LLMs & Agentic AI systems**
+- Building **AI-driven backend systems** with Django & REST
+- Contributing to **open-source AI/ML projects**
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/hammad-farooq13/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hammad-faroq"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0140f9210f786c019"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/upwork.svg" alt="Upwork" width="40" height="40"/></a>
+</p>
+
+---
+
+✨ "Code. Learn. Build. Share."
