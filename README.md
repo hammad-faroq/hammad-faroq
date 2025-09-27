@@ -1,6 +1,6 @@
 # Hi, I’m Hammad Farooq 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=500&lines=Data+Science+Student;AI%2FML+Enthusiast;Django+Developer;Always+Learning;Gamer+%7C+Programmer+%7C+Problem+Solver+%7C+Creator)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=600&lines=Data+Science+Student;AI%2FML+Enthusiast,+Gamer,+Programmer,+Problem+Solver,+Creator)
 
 ---
 
@@ -21,6 +21,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+</p>
+<p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/llm.svg" alt="LLM" width="40" height="40"/>
@@ -51,9 +53,13 @@
 ---
 
 ## 📫 Connect With Me
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/hammad-farooq13/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="30" height="30"/>](https://github.com/hammad-faroq)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/upwork.svg" alt="Upwork" width="30" height="30"/>](https://www.upwork.com/freelancers/~0140f9210f786c019)
+<p>
+  <a href="https://www.linkedin.com/in/hammad-farooq13/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hammad-faroq"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0140f9210f786c019"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/upwork.svg" alt="Upwork" width="40" height="40"/></a>
+</p>
 
 ---
 
