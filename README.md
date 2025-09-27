@@ -1,6 +1,7 @@
 # Hi, I’m Hammad Farooq 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&width=500&lines=Data+Science+Student;AI%2FML+Enthusiast;Django+Developer;Always+Learning;Gamer;Problem+Solver;Creator)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=500&lines=Data+Science+Student;AI%2FML+Enthusiast;Django+Developer;Always+Learning;Gamer;Problem+Solver;Creator)
+
 
 ---
 
