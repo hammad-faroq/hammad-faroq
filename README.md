@@ -1,6 +1,6 @@
 # Hi, I'm Hammad Farooq 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&width=600&lines=Backend+Developer+(.NET+%26+Django);AI+%26+ML+Enthusiast;Building+Backend+Systems;Aspiring+AI+Engineer;Always+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&width=600&lines=Backend+Developer+(.NET+%26+Django);AI+%26+ML+Enthusiast;Building+Backend+Systems;Aspiring+AI+Engineer;Always+Learning)
 
 ---
 
@@ -16,17 +16,30 @@
 
 ## 🛠 Languages & Tools
 
+**Backend & Languages**
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 35px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" style="margin-right: 35px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" style="margin-right: 35px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 35px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="margin-right: 35px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right: 35px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+</p>
+
+**Databases**
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" style="margin-right: 35px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 35px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+**Cloud & Tools**
+<p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40" style="margin-right: 35px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 35px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+**Data & AI/ML**
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 35px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right: 35px;"/>
@@ -61,7 +74,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hammad-faroq"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~0140f9210f786c019"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/upwork.svg" alt="Upwork" width="40" height="40"/></a>
+  <a href="https://www.upwork.com/freelancers/~0140f9210f786c019c"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/upwork.svg" alt="Upwork" width="40" height="40"/></a>
 </p>
 
 ---
